@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Entidades_BookCloud/1.0.0": {
+        "runtime": {
+          "Entidades_BookCloud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entidades_BookCloud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

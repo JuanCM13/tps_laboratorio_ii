@@ -1,0 +1,502 @@
+﻿<ArrayOfPublicacion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>1</CodigoIdentificador>
+		<Titulo>Odisea</Titulo>
+		<Autor>Homero</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>142.98</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoNovela>Accion</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>2</CodigoIdentificador>
+		<Titulo>Don Quijote</Titulo>
+		<Autor>Cervantes</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>200.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>CienciaFiccion</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>3</CodigoIdentificador>
+		<Titulo>Frankestein</Titulo>
+		<Autor>Shelly</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>250.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>Policial</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>4</CodigoIdentificador>
+		<Titulo>Madame Bovart</Titulo>
+		<Autor>Flaublet</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>285.48</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoNovela>Poesia</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>5</CodigoIdentificador>
+		<Titulo>Cumbres Rocosas</Titulo>
+		<Autor>Bronie</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>350.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>Religion</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>6</CodigoIdentificador>
+		<Titulo>Crimen y Castigo</Titulo>
+		<Autor>Dostelevski</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>400.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>Romance</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>7</CodigoIdentificador>
+		<Titulo>Las uvas de la ira</Titulo>
+		<Autor>Steinbeck</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>427.98</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoNovela>Suspenso</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>8</CodigoIdentificador>
+		<Titulo>Anna</Titulo>
+		<Autor>Karemina</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>500.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>Terror</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>9</CodigoIdentificador>
+		<Titulo>Niebla</Titulo>
+		<Autor>Unamuno</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>550.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>Accion</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>10</CodigoIdentificador>
+		<Titulo>La metamorfosis</Titulo>
+		<Autor>Kafka</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>142.98</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoNovela>Terror</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>11</CodigoIdentificador>
+		<Titulo>El Corazon</Titulo>
+		<Autor>Conrad</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>142.98</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoNovela>Accion</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>12</CodigoIdentificador>
+		<Titulo>Huckleberry Fin</Titulo>
+		<Autor>Twain</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>200.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>CienciaFiccion</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>13</CodigoIdentificador>
+		<Titulo>Cien años de soledad</Titulo>
+		<Autor>Marquez</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>250.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>Policial</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>14</CodigoIdentificador>
+		<Titulo>El hereje</Titulo>
+		<Autor>Delibes</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>285.48</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoNovela>Poesia</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>15</CodigoIdentificador>
+		<Titulo>Fuga de JB</Titulo>
+		<Autor>Bailester</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>350.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>Religion</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>16</CodigoIdentificador>
+		<Titulo>Olvidado</Titulo>
+		<Autor>Matute</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>400.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>Romance</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>17</CodigoIdentificador>
+		<Titulo>A esmorga</Titulo>
+		<Autor>Blanco</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>427.98</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoNovela>Suspenso</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>18</CodigoIdentificador>
+		<Titulo>La señora Dalloway</Titulo>
+		<Autor>Woolf</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>500.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>Terror</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>19</CodigoIdentificador>
+		<Titulo>Pedro Paramo</Titulo>
+		<Autor>Rulfo</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>550.5</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoNovela>Accion</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Novela">
+		<CodigoIdentificador>20</CodigoIdentificador>
+		<Titulo>Merlin</Titulo>
+		<Autor>Conquero</Autor>
+		<Edicion>3</Edicion>
+		<CantPaginas>200</CantPaginas>
+		<Precio>142.98</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoNovela>Terror</TipoNovela>
+	</Publicacion>
+	<Publicacion xsi:type="Cuento">
+		<CodigoIdentificador>21</CodigoIdentificador>
+		<Titulo>La jirafa</Titulo>
+		<Autor>Arreola</Autor>
+		<Edicion>1</Edicion>
+		<CantPaginas>300</CantPaginas>
+		<Precio>546.08</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoCuento>Magos</TipoCuento>
+	</Publicacion>
+	<Publicacion xsi:type="Cuento">
+		<CodigoIdentificador>22</CodigoIdentificador>
+		<Titulo>Alguien Soñara</Titulo>
+		<Autor>Luis Borges</Autor>
+		<Edicion>1</Edicion>
+		<CantPaginas>300</CantPaginas>
+		<Precio>700.1</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoCuento>Dinosaurios</TipoCuento>
+	</Publicacion>
+	<Publicacion xsi:type="Cuento">
+		<CodigoIdentificador>23</CodigoIdentificador>
+		<Titulo>Amores Lejanos</Titulo>
+		<Autor>Cortazar</Autor>
+		<Edicion>1</Edicion>
+		<CantPaginas>300</CantPaginas>
+		<Precio>630.08</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoCuento>Animales</TipoCuento>
+	</Publicacion>
+	<Publicacion xsi:type="Cuento">
+		<CodigoIdentificador>24</CodigoIdentificador>
+		<Titulo>Lamparas de Hojalata</Titulo>
+		<Autor>Mutis</Autor>
+		<Edicion>1</Edicion>
+		<CantPaginas>300</CantPaginas>
+		<Precio>800.1</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoCuento>Animales</TipoCuento>
+	</Publicacion>
+	<Publicacion xsi:type="Cuento">
+		<CodigoIdentificador>25</CodigoIdentificador>
+		<Titulo>Duelo</Titulo>
+		<Autor>Reyes</Autor>
+		<Edicion>1</Edicion>
+		<CantPaginas>300</CantPaginas>
+		<Precio>714.08</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoCuento>Magos</TipoCuento>
+	</Publicacion>
+	<Publicacion xsi:type="Cuento">
+		<CodigoIdentificador>26</CodigoIdentificador>
+		<Titulo>Los Besos</Titulo>
+		<Autor>Onetti</Autor>
+		<Edicion>1</Edicion>
+		<CantPaginas>300</CantPaginas>
+		<Precio>756.08</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoCuento>Animales</TipoCuento>
+	</Publicacion>
+	<Publicacion xsi:type="Cuento">
+		<CodigoIdentificador>27</CodigoIdentificador>
+		<Titulo>El drama del desencantado</Titulo>
+		<Autor>Marquez</Autor>
+		<Edicion>1</Edicion>
+		<CantPaginas>300</CantPaginas>
+		<Precio>950.1</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoCuento>Animales</TipoCuento>
+	</Publicacion>
+	<Publicacion xsi:type="Cuento">
+		<CodigoIdentificador>28</CodigoIdentificador>
+		<Titulo>Aguafuerte</Titulo>
+		<Autor>Dario</Autor>
+		<Edicion>1</Edicion>
+		<CantPaginas>300</CantPaginas>
+		<Precio>840.08</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoCuento>Aventura</TipoCuento>
+	</Publicacion>
+	<Publicacion xsi:type="Cuento">
+		<CodigoIdentificador>29</CodigoIdentificador>
+		<Titulo>Un paciente</Titulo>
+		<Autor>Fernandez</Autor>
+		<Edicion>1</Edicion>
+		<CantPaginas>300</CantPaginas>
+		<Precio>1540.1</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoCuento>Magos</TipoCuento>
+	</Publicacion>
+	<Publicacion xsi:type="Cuento">
+		<CodigoIdentificador>30</CodigoIdentificador>
+		<Titulo>El dinosaurio</Titulo>
+		<Autor>Monterroso</Autor>
+		<Edicion>1</Edicion>
+		<CantPaginas>300</CantPaginas>
+		<Precio>3780.08</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoCuento>Animales</TipoCuento>
+	</Publicacion>
+	<Publicacion xsi:type="Manual">
+		<CodigoIdentificador>41</CodigoIdentificador>
+		<Titulo>Caza vol Uno</Titulo>
+		<Autor>Alvo</Autor>
+		<Edicion>11</Edicion>
+		<CantPaginas>1200</CantPaginas>
+		<Precio>400.1</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoManual>Caza</TipoManual>
+	</Publicacion>
+	<Publicacion xsi:type="Manual">
+		<CodigoIdentificador>42</CodigoIdentificador>
+		<Titulo>Cocina vol Uno</Titulo>
+		<Autor>Losada</Autor>
+		<Edicion>11</Edicion>
+		<CantPaginas>1200</CantPaginas>
+		<Precio>400.1</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoManual>Cocina</TipoManual>
+	</Publicacion>
+	<Publicacion xsi:type="Manual">
+		<CodigoIdentificador>43</CodigoIdentificador>
+		<Titulo>Pesca vol Uno</Titulo>
+		<Autor>Perez</Autor>
+		<Edicion>11</Edicion>
+		<CantPaginas>1200</CantPaginas>
+		<Precio>400.1</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoManual>Pesca</TipoManual>
+	</Publicacion>
+	<Publicacion xsi:type="Manual">
+		<CodigoIdentificador>44</CodigoIdentificador>
+		<Titulo>Auto ayuda vol Uno</Titulo>
+		<Autor>Diaz</Autor>
+		<Edicion>11</Edicion>
+		<CantPaginas>1200</CantPaginas>
+		<Precio>430.1</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoManual>Auto_Ayuda</TipoManual>
+	</Publicacion>
+	<Publicacion xsi:type="Manual">
+		<CodigoIdentificador>45</CodigoIdentificador>
+		<Titulo>Caza vol Dos</Titulo>
+		<Autor>Alvo</Autor>
+		<Edicion>11</Edicion>
+		<CantPaginas>1200</CantPaginas>
+		<Precio>400.1</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoManual>Caza</TipoManual>
+	</Publicacion>
+	<Publicacion xsi:type="Manual">
+		<CodigoIdentificador>46</CodigoIdentificador>
+		<Titulo>Cocina vol Dos</Titulo>
+		<Autor>Losada</Autor>
+		<Edicion>11</Edicion>
+		<CantPaginas>1200</CantPaginas>
+		<Precio>360.09</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoManual>Cocina</TipoManual>
+	</Publicacion>
+	<Publicacion xsi:type="Manual">
+		<CodigoIdentificador>47</CodigoIdentificador>
+		<Titulo>Auto ayuda vol Dos</Titulo>
+		<Autor>Diaz</Autor>
+		<Edicion>11</Edicion>
+		<CantPaginas>1200</CantPaginas>
+		<Precio>400.1</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoManual>Auto_Ayuda</TipoManual>
+	</Publicacion>
+	<Publicacion xsi:type="Manual">
+		<CodigoIdentificador>48</CodigoIdentificador>
+		<Titulo>Pesca vol Dos</Titulo>
+		<Autor>Perez</Autor>
+		<Edicion>11</Edicion>
+		<CantPaginas>1200</CantPaginas>
+		<Precio>600.1</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoManual>Pesca</TipoManual>
+	</Publicacion>
+	<Publicacion xsi:type="Manual">
+		<CodigoIdentificador>49</CodigoIdentificador>
+		<Titulo>Caza vol Tres</Titulo>
+		<Autor>Alvo</Autor>
+		<Edicion>11</Edicion>
+		<CantPaginas>1200</CantPaginas>
+		<Precio>360.09</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoManual>Caza</TipoManual>
+	</Publicacion>
+	<Publicacion xsi:type="Manual">
+		<CodigoIdentificador>50</CodigoIdentificador>
+		<Titulo>Cocina vol Tres</Titulo>
+		<Autor>Losada</Autor>
+		<Edicion>11</Edicion>
+		<CantPaginas>1200</CantPaginas>
+		<Precio>360.09</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoManual>Cocina</TipoManual>
+	</Publicacion>
+	<Publicacion xsi:type="Historieta">
+		<CodigoIdentificador>31</CodigoIdentificador>
+		<Titulo>Baki</Titulo>
+		<Autor>QRA</Autor>
+		<Edicion>6</Edicion>
+		<CantPaginas>400</CantPaginas>
+		<Precio>850.15</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoHistorieta>Anime</TipoHistorieta>
+	</Publicacion>
+	<Publicacion xsi:type="Historieta">
+		<CodigoIdentificador>32</CodigoIdentificador>
+		<Titulo>Loki</Titulo>
+		<Autor>MOA</Autor>
+		<Edicion>6</Edicion>
+		<CantPaginas>400</CantPaginas>
+		<Precio>900.15</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoHistorieta>Marvel</TipoHistorieta>
+	</Publicacion>
+	<Publicacion xsi:type="Historieta">
+		<CodigoIdentificador>33</CodigoIdentificador>
+		<Titulo>Joker</Titulo>
+		<Autor>FVA</Autor>
+		<Edicion>6</Edicion>
+		<CantPaginas>400</CantPaginas>
+		<Precio>850.15</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoHistorieta>DC</TipoHistorieta>
+	</Publicacion>
+	<Publicacion xsi:type="Historieta">
+		<CodigoIdentificador>34</CodigoIdentificador>
+		<Titulo>Berserk</Titulo>
+		<Autor>AFF</Autor>
+		<Edicion>6</Edicion>
+		<CantPaginas>400</CantPaginas>
+		<Precio>560.11</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoHistorieta>Anime</TipoHistorieta>
+	</Publicacion>
+	<Publicacion xsi:type="Historieta">
+		<CodigoIdentificador>35</CodigoIdentificador>
+		<Titulo>Capitan America</Titulo>
+		<Autor>BHA</Autor>
+		<Edicion>6</Edicion>
+		<CantPaginas>400</CantPaginas>
+		<Precio>850.15</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoHistorieta>Marvel</TipoHistorieta>
+	</Publicacion>
+	<Publicacion xsi:type="Historieta">
+		<CodigoIdentificador>36</CodigoIdentificador>
+		<Titulo>Initial D</Titulo>
+		<Autor>GAX</Autor>
+		<Edicion>6</Edicion>
+		<CantPaginas>400</CantPaginas>
+		<Precio>560.11</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoHistorieta>Anime</TipoHistorieta>
+	</Publicacion>
+	<Publicacion xsi:type="Historieta">
+		<CodigoIdentificador>37</CodigoIdentificador>
+		<Titulo>Ironman</Titulo>
+		<Autor>QOI</Autor>
+		<Edicion>6</Edicion>
+		<CantPaginas>400</CantPaginas>
+		<Precio>850.15</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoHistorieta>Marvel</TipoHistorieta>
+	</Publicacion>
+	<Publicacion xsi:type="Historieta">
+		<CodigoIdentificador>38</CodigoIdentificador>
+		<Titulo>Batman</Titulo>
+		<Autor>LMZ</Autor>
+		<Edicion>6</Edicion>
+		<CantPaginas>400</CantPaginas>
+		<Precio>800.15</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoHistorieta>DC</TipoHistorieta>
+	</Publicacion>
+	<Publicacion xsi:type="Historieta">
+		<CodigoIdentificador>39</CodigoIdentificador>
+		<Titulo>Ghost in the Shell</Titulo>
+		<Autor>OOQ</Autor>
+		<Edicion>6</Edicion>
+		<CantPaginas>400</CantPaginas>
+		<Precio>595.11</Precio>
+		<TieneDescuento>true</TieneDescuento>
+		<TipoHistorieta>Anime</TipoHistorieta>
+	</Publicacion>
+	<Publicacion xsi:type="Historieta">
+		<CodigoIdentificador>40</CodigoIdentificador>
+		<Titulo>Flash</Titulo>
+		<Autor>Autor Historieta 10</Autor>
+		<Edicion>6</Edicion>
+		<CantPaginas>400</CantPaginas>
+		<Precio>800.15</Precio>
+		<TieneDescuento>false</TieneDescuento>
+		<TipoHistorieta>DC</TipoHistorieta>
+	</Publicacion>
+</ArrayOfPublicacion>
