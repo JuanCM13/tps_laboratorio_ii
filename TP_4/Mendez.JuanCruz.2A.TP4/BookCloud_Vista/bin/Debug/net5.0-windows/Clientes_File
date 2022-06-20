@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCliente_BookCloud xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>12345671</Dni>
+    <Nombre>Jorge</Nombre>
+    <Apellido>Perez</Apellido>
+    <FechaNacimiento>2010-12-03T00:00:00</FechaNacimiento>
+    <Nacionalidad>Argentina</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>14125672</Dni>
+    <Nombre>Alvaro</Nombre>
+    <Apellido>Lopez</Apellido>
+    <FechaNacimiento>2009-11-01T00:00:00</FechaNacimiento>
+    <Nacionalidad>Bolivia</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>23135775</Dni>
+    <Nombre>Manuel</Nombre>
+    <Apellido>Gonzalez</Apellido>
+    <FechaNacimiento>2006-08-21T00:00:00</FechaNacimiento>
+    <Nacionalidad>Uruguay</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>23863146</Dni>
+    <Nombre>Juan </Nombre>
+    <Apellido>Alfonso</Apellido>
+    <FechaNacimiento>2005-07-11T00:00:00</FechaNacimiento>
+    <Nacionalidad>España</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>23123135</Dni>
+    <Nombre>Juan Pablo</Nombre>
+    <Apellido>Lopez</Apellido>
+    <FechaNacimiento>2004-06-10T00:00:00</FechaNacimiento>
+    <Nacionalidad>Venezuela</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>12345673</Dni>
+    <Nombre>Juan Cruz</Nombre>
+    <Apellido>Veraz</Apellido>
+    <FechaNacimiento>2008-10-15T00:00:00</FechaNacimiento>
+    <Nacionalidad>Chile</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>12145674</Dni>
+    <Nombre>Juan Ignacio</Nombre>
+    <Apellido>Gomez</Apellido>
+    <FechaNacimiento>2007-09-06T00:00:00</FechaNacimiento>
+    <Nacionalidad>Colombia</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>12545778</Dni>
+    <Nombre>Jose Gian</Nombre>
+    <Apellido>Morra</Apellido>
+    <FechaNacimiento>2003-05-19T00:00:00</FechaNacimiento>
+    <Nacionalidad>Chile</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>32345689</Dni>
+    <Nombre>Thiago</Nombre>
+    <Apellido>Silva</Apellido>
+    <FechaNacimiento>2002-04-24T00:00:00</FechaNacimiento>
+    <Nacionalidad>Argentina</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>45531610</Dni>
+    <Nombre>Santino</Nombre>
+    <Apellido>Asis</Apellido>
+    <FechaNacimiento>2001-03-14T00:00:00</FechaNacimiento>
+    <Nacionalidad>Paraguay</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>92346710</Dni>
+    <Nombre>Camila</Nombre>
+    <Apellido>Perez</Apellido>
+    <FechaNacimiento>2004-06-10T00:00:00</FechaNacimiento>
+    <Nacionalidad>Venezuela</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>61345573</Dni>
+    <Nombre>Milagros</Nombre>
+    <Apellido>Veraz</Apellido>
+    <FechaNacimiento>2008-10-15T00:00:00</FechaNacimiento>
+    <Nacionalidad>Chile</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>71345864</Dni>
+    <Nombre>Florencia</Nombre>
+    <Apellido>Lopez</Apellido>
+    <FechaNacimiento>2007-09-06T00:00:00</FechaNacimiento>
+    <Nacionalidad>Colombia</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>12546278</Dni>
+    <Nombre>Julia</Nombre>
+    <Apellido>Perez</Apellido>
+    <FechaNacimiento>2003-05-19T00:00:00</FechaNacimiento>
+    <Nacionalidad>Chile</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>82315619</Dni>
+    <Nombre>Sofia</Nombre>
+    <Apellido>Perez</Apellido>
+    <FechaNacimiento>2002-04-24T00:00:00</FechaNacimiento>
+    <Nacionalidad>Argentina</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>42245614</Dni>
+    <Nombre>Milena</Nombre>
+    <Apellido>Gomez</Apellido>
+    <FechaNacimiento>2001-03-14T00:00:00</FechaNacimiento>
+    <Nacionalidad>Paraguay</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>11435171</Dni>
+    <Nombre>Flore</Nombre>
+    <Apellido>Gonzalez</Apellido>
+    <FechaNacimiento>2010-12-03T00:00:00</FechaNacimiento>
+    <Nacionalidad>Argentina</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>13335270</Dni>
+    <Nombre>Julia</Nombre>
+    <Apellido>Perez B</Apellido>
+    <FechaNacimiento>2009-11-01T00:00:00</FechaNacimiento>
+    <Nacionalidad>Bolivia</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>04305679</Dni>
+    <Nombre>Sofia</Nombre>
+    <Apellido>Perez C</Apellido>
+    <FechaNacimiento>2008-10-15T00:00:00</FechaNacimiento>
+    <Nacionalidad>Chile</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>23340674</Dni>
+    <Nombre>Milena</Nombre>
+    <Apellido>Gonzalez</Apellido>
+    <FechaNacimiento>2007-09-06T00:00:00</FechaNacimiento>
+    <Nacionalidad>Colombia</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>96347615</Dni>
+    <Nombre>Valeria</Nombre>
+    <Apellido>Alfonso</Apellido>
+    <FechaNacimiento>2006-08-21T00:00:00</FechaNacimiento>
+    <Nacionalidad>Uruguay</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>14341677</Dni>
+    <Nombre>Felipe</Nombre>
+    <Apellido>Perez F</Apellido>
+    <FechaNacimiento>2005-07-11T00:00:00</FechaNacimiento>
+    <Nacionalidad>España</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>18547671</Dni>
+    <Nombre>Pablo</Nombre>
+    <Apellido>Veraz</Apellido>
+    <FechaNacimiento>2004-06-10T00:00:00</FechaNacimiento>
+    <Nacionalidad>Venezuela</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>10342676</Dni>
+    <Nombre>Pepe</Nombre>
+    <Apellido>Perez H</Apellido>
+    <FechaNacimiento>2003-05-19T00:00:00</FechaNacimiento>
+    <Nacionalidad>Chile</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>06344676</Dni>
+    <Nombre>Alvaro</Nombre>
+    <Apellido>Perez I</Apellido>
+    <FechaNacimiento>2002-04-24T00:00:00</FechaNacimiento>
+    <Nacionalidad>Argentina</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>11112910</Dni>
+    <Nombre>Alma</Nombre>
+    <Apellido>Perez J</Apellido>
+    <FechaNacimiento>2001-03-14T00:00:00</FechaNacimiento>
+    <Nacionalidad>Paraguay</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>11125675</Dni>
+    <Nombre>Carlos</Nombre>
+    <Apellido>Perez E</Apellido>
+    <FechaNacimiento>2006-08-21T00:00:00</FechaNacimiento>
+    <Nacionalidad>Uruguay</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>11135676</Dni>
+    <Nombre>Victor</Nombre>
+    <Apellido>Perez F</Apellido>
+    <FechaNacimiento>2005-07-11T00:00:00</FechaNacimiento>
+    <Nacionalidad>España</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>11175677</Dni>
+    <Nombre>Hugo</Nombre>
+    <Apellido>Perez G</Apellido>
+    <FechaNacimiento>2004-06-10T00:00:00</FechaNacimiento>
+    <Nacionalidad>Venezuela</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>11145678</Dni>
+    <Nombre>Santiago</Nombre>
+    <Apellido>Perez H</Apellido>
+    <FechaNacimiento>2003-05-19T00:00:00</FechaNacimiento>
+    <Nacionalidad>Chile</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>11415679</Dni>
+    <Nombre>Celeste</Nombre>
+    <Apellido>Perez I</Apellido>
+    <FechaNacimiento>2002-04-24T00:00:00</FechaNacimiento>
+    <Nacionalidad>Argentina</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>96165610</Dni>
+    <Nombre>Andre</Nombre>
+    <Apellido>Perez J</Apellido>
+    <FechaNacimiento>2001-03-14T00:00:00</FechaNacimiento>
+    <Nacionalidad>Paraguay</Nacionalidad>
+    <NumTelefono>45454545</NumTelefono>
+    <MailContacto>asdfafs@gmail.com</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>12541254</Dni>
+    <Nombre>Pepe</Nombre>
+    <Apellido>Weref</Apellido>
+    <FechaNacimiento>2018-02-06T02:19:22</FechaNacimiento>
+    <Nacionalidad>Argentina</Nacionalidad>
+    <NumTelefono>124512451254</NumTelefono>
+    <MailContacto>weref@gmail</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>25147854</Dni>
+    <Nombre>Pepe</Nombre>
+    <Apellido>Argento</Apellido>
+    <FechaNacimiento>1995-07-14T02:20:08</FechaNacimiento>
+    <Nacionalidad>Argentina</Nacionalidad>
+    <NumTelefono>1544125477</NumTelefono>
+    <MailContacto>argento@gmail</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>33557799</Dni>
+    <Nombre>Boris</Nombre>
+    <Apellido>Apolo</Apellido>
+    <FechaNacimiento>1993-10-07T02:35:01</FechaNacimiento>
+    <Nacionalidad>Argentina</Nacionalidad>
+    <NumTelefono>41147852</NumTelefono>
+    <MailContacto>apolo@gmail</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>78965412</Dni>
+    <Nombre>Gonzalo</Nombre>
+    <Apellido>Fonte</Apellido>
+    <FechaNacimiento>1961-06-17T03:08:57</FechaNacimiento>
+    <Nacionalidad>Paraguay</Nacionalidad>
+    <NumTelefono>7896321458</NumTelefono>
+    <MailContacto>gonzalo@gmail</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>21458963</Dni>
+    <Nombre>Jorge</Nombre>
+    <Apellido>Asis</Apellido>
+    <FechaNacimiento>1991-06-13T17:37:03</FechaNacimiento>
+    <Nacionalidad>Peru</Nacionalidad>
+    <NumTelefono>12356743</NumTelefono>
+    <MailContacto>asdasdjkjjj@gmail</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Regular">
+    <Dni>12968874</Dni>
+    <Nombre>Pedro Alfonso</Nombre>
+    <Apellido>Ramirez</Apellido>
+    <FechaNacimiento>2014-06-12T23:53:10</FechaNacimiento>
+    <Nacionalidad>Peru</Nacionalidad>
+    <NumTelefono>12356777782</NumTelefono>
+    <MailContacto>mailfalso123@</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>10</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
+</ArrayOfCliente_BookCloud>

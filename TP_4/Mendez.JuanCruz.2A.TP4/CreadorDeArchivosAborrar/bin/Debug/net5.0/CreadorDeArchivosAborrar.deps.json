@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CreadorDeArchivosAborrar/1.0.0": {
+        "dependencies": {
+          "Entidades_BookCloud": "1.0.0"
+        },
+        "runtime": {
+          "CreadorDeArchivosAborrar.dll": {}
+        }
+      },
+      "Entidades_BookCloud/1.0.0": {
+        "runtime": {
+          "Entidades_BookCloud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreadorDeArchivosAborrar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades_BookCloud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

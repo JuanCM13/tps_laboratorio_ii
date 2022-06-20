@@ -468,4 +468,17 @@
       <LimiteCompras>10</LimiteCompras>
     </CarritoCompras>
   </Cliente_BookCloud>
+  <Cliente_BookCloud xsi:type="Premium">
+    <Dni>11447788</Dni>
+    <Nombre>Pepe</Nombre>
+    <Apellido>Lepug</Apellido>
+    <FechaNacimiento>2013-06-21T09:11:19</FechaNacimiento>
+    <Nacionalidad>Argentina</Nacionalidad>
+    <NumTelefono>78521469</NumTelefono>
+    <MailContacto>pepe@gmail</MailContacto>
+    <CarritoCompras>
+      <Productos />
+      <LimiteCompras>20</LimiteCompras>
+    </CarritoCompras>
+  </Cliente_BookCloud>
 </ArrayOfCliente_BookCloud>
